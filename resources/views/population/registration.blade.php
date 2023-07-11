@@ -71,7 +71,6 @@
 															<!--end::Inputs-->
 														</label>
 														<!--end::Label-->
-														<span class=""></span>
 														<!--begin::Cancel-->
 														<span class="btn btn-icon btn-circle btn-active-color-primary w-25px h-25px bg-body shadow" data-kt-image-input-action="cancel" data-bs-toggle="tooltip" title="Cancel avatar">
 															<i class="bi bi-x fs-2"></i>
